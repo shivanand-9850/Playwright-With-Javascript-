@@ -1,0 +1,13 @@
+{
+  "username":"superadmin@clearcost.ag",
+  "passwoed": "123456",
+  "name":"shivanand",
+  "interest":["Python","java","API"],
+  "gender":"Male",
+  "address":{
+    "area":"HSR",
+    "city":"pune",
+    "pincode":443202
+     }
+}
+
